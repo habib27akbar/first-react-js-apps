@@ -1,0 +1,44 @@
+.menu {
+  position: absolute;
+  width: 256px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #212936;
+}
+.header-bg {
+  background: #212936;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 25);
+  width: 255px;
+  height: 144px;
+}
+.name {
+  position: absolute;
+  height: 26px;
+  left: 16px;
+  right: 56px;
+  top: 104px;
+  color: #afbdd1;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 0.15px;
+}
+
+.image-profile {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: 16px;
+  top: 40px;
+  border-radius: 20px;
+}
+
+.image {
+  position: absolute;
+  left: -25%;
+  right: -25%;
+}
